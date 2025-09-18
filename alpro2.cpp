@@ -10,7 +10,7 @@ int main () {
        
        cin >> nama ;
        
-       cout << "Namamu adalah ; " << nama << endl;
+       cout << "Namamu adalah siapa; " << nama << endl;
        
 	   return 0;
 }
